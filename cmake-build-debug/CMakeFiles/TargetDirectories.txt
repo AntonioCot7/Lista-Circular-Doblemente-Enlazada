@@ -1,0 +1,3 @@
+C:/Users/PC Antonio/OneDrive/Documentos/Lista_Circular_Doblemente_Enlazada/cmake-build-debug/CMakeFiles/Lista_Circular_Doblemente_Enlazada.dir
+C:/Users/PC Antonio/OneDrive/Documentos/Lista_Circular_Doblemente_Enlazada/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC Antonio/OneDrive/Documentos/Lista_Circular_Doblemente_Enlazada/cmake-build-debug/CMakeFiles/rebuild_cache.dir

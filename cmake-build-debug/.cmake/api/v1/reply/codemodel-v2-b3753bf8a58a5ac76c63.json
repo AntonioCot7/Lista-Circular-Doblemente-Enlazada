@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lista_Circular_Doblemente_Enlazada",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lista_Circular_Doblemente_Enlazada::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lista_Circular_Doblemente_Enlazada-Debug-393baf89d2a91659a397.json",
+					"name" : "Lista_Circular_Doblemente_Enlazada",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/PC Antonio/OneDrive/Documentos/Lista_Circular_Doblemente_Enlazada/cmake-build-debug",
+		"source" : "C:/Users/PC Antonio/OneDrive/Documentos/Lista_Circular_Doblemente_Enlazada"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
